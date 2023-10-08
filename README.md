@@ -1,3 +1,2 @@
-# javaProject1
+# Creating Digital Clock using Java Swing
 
-This project is a time showing window. 
